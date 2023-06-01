@@ -55,6 +55,6 @@ Product Owner:
                     Identity data & data source.
 `Daily Standup`
 
-  15minutes meet for daily updation.
-  What i did yesterday?
-  What an going to work today.
+                    15minutes meet for daily updation.
+                    What i did yesterday?
+                    What an going to work today.
