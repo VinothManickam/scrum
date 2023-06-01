@@ -1,5 +1,7 @@
 # scrum
-scrum :
+
+`scrum`
+
   One of the Agile freamworks.
   Rugby (Team Members Working Togther).
   Product Development Quick, Self organizing.
@@ -9,7 +11,8 @@ scrum :
   End of each Sprint.
   Shippable product.
   
-Scrum Roles :
+`Scrum Roles`
+
   Scrum Master,product owner, Team.
 Product Owner:
   Project vision,item pritorize.
@@ -18,35 +21,40 @@ Product Owner:
   Can make descussions.
   Authority to stop / discontinue a sprint.
   Relase burn-down charts.
-Scrum Master:
+`Scrum Master`
   Problem issues solver, coach, leader, guides, organize team.
   Enforce timebox but don't  have management authority.
   Schedule meet & create positive environment.
-Team :
+`Team`
   Self Organizing & Cross Functional.
   Work an product backlogs (Development, Teat).
   Each team (5-7) pepole.
   Create shippable product.
   Complete Sprint Tasks.
-Relase Plan :
+`Relase Plan`
   Plan for upcoming relase based on priority.
   Select features from product backlogs.
   Discuss goals, risk, functionalities & features.
   No.of Sprint & Length, relase date, estimate product backlog.
-Plan Meeting :
+`Plan Meeting`
   Collaborate to plan & decide the works of current Sprint.
   Time box, Scrum master conduct.
   
-  Two Haves : 1.What to deliver ? 
+  **Two Haves**
+  
+  `What to deliver`
+  
                     Discuss Requirement with product owner & understand what to want.
                     Understand Scope & Criteria.
                     Work based on Prierity (Sprint Backlogs).
-              2.How to deliver ?
+  `How to deliver`
+  
                     How to achieve goals,deliver product?
                     Discuss rough architeure testing plan.
                     Identity tasks, depences.
                     Identity data & data source.
-Daily Standup :
+`Daily Standup`
+
   15minutes meet for daily updation.
   What i did yesterday?
   What an going to work today.
